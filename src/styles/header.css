@@ -1,0 +1,30 @@
+/* RULES */
+
+nav {
+    z-index: 200;
+    width: 100%;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1600px) {
+
+}
+@media screen and (max-width: 1280px) {
+    
+}
+@media screen and (max-width: 1000px) {
+
+}
+@media screen and (max-width: 800px) {
+    
+}
+@media screen and (max-width: 600px) {
+
+}
+@media screen and (max-width: 480px) {
+    
+}
+@media screen and (max-width: 360px) {
+    
+}
